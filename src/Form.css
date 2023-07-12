@@ -1,0 +1,14 @@
+*{
+    padding-left:7%;
+    text-align: center;
+    align-items: center;
+    background: rgb(17,6,38);
+    background: linear-gradient(90deg, rgb(45, 3, 121) 0%, rgb(209, 91, 218) 42%, rgb(7, 199, 238) 100%);
+}
+
+.form{
+    
+    background-color: white;
+    height: 650px;
+    width: 550px;
+}
